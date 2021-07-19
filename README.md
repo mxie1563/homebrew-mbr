@@ -1,10 +1,10 @@
-# Mxie1563 Aws-cli-oidc
+# mxie1563 aws-cli-oidc
 
-## How do I install these formulae?
+## How do I install aws-cli-oidc?
 
-`brew install mxie1563/aws-cli-oidc/<formula>`
+`brew install mxie1563/aws-cli-oidc/aws-cli-oidc`
 
-Or `brew tap mxie1563/aws-cli-oidc` and then `brew install <formula>`.
+Or `brew tap mxie1563/aws-cli-oidc` and then `brew install aws-cli-oidc`.
 
 ## Documentation
 
