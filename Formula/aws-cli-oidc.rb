@@ -5,10 +5,10 @@ class AwsCliOidc < Formula
   sha256 "52fa04f7da6d2e6723ea2be8de1bbf7d1744012039cc8de1982bbc49c71b9fb3"
   license "MIT"
 
-  depends_on "go" => :build
+  depends_on "make" => :build
 
   def install
-    system "go", "build", *std_go_args
+    system "make", "build"
   end
 
   test do
