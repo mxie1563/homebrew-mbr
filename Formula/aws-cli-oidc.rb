@@ -14,6 +14,6 @@ class AwsCliOidc < Formula
   end
 
   test do
-    system "false"
+    assert_match "Usage:", shell_output("#{bin}/aws-cli-oidc")
   end
 end
