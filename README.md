@@ -1,10 +1,16 @@
-# Mxie1563 Mbr
+# mxie1563/mbr
 
 ## How do I install these formulae?
 
 `brew install mxie1563/mbr/<formula>`
 
 Or `brew tap mxie1563/mbr` and then `brew install <formula>`.
+
+## How do I install aws-cli-oidc?
+
+`brew install mxie1563/mbr/aws-cli-oidc`
+
+Or `brew tap mxie1563/mbr` and then `brew install aws-cli-oidc`.
 
 ## Documentation
 
