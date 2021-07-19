@@ -12,11 +12,6 @@ class AwsCliOidc < Formula
   end
 
   test do
-    assert_match "Usage:
-  aws-cli-oidc get-cred <idp> <role> [print] [<seconds>]
-  aws-cli-oidc setup <idp>
-  aws-cli-oidc cache (show [token]| clear)
-  aws-cli-oidc -h | --help
-", shell_output(bin/"aws-cli-oidc", 255)
+    system "false"
   end
 end
