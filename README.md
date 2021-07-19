@@ -5,6 +5,9 @@
 `brew install mxie1563/mbr/<formula>`
 
 Or `brew tap mxie1563/mbr` and then `brew install <formula>`.
+Or install via URL (which will not receive updates):
+
+brew install https://raw.githubusercontent.com/mbrtargeting/homebrew-mbr/master/Formula/<formula>.rb
 
 ## How do I install aws-cli-oidc?
 
