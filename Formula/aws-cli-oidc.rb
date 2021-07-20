@@ -1,8 +1,8 @@
 class AwsCliOidc < Formula
   desc "Automatically start your go.mod Github dependencies to build aws-cli-oidc"
   homepage "https://github.com/parkside-securities/aws-cli-oidc"
-  url "https://github.com/parkside-securities/aws-cli-oidc/archive/refs/tags/0.2.0.tar.gz"
-  sha256 "204c24997c9f0271bf38e1826caa1e3bc7bc7fd0f92e3ca7af0b749e44cc9a68"
+  url "https://github.com/parkside-securities/aws-cli-oidc/archive/refs/tags/0.2.1.tar.gz"
+  sha256 "58ffacb9fd69d7d6b25d668be15014b3b73514268f6dac1b8d0de340c1045f0b"
   license "MIT"
 
   depends_on "go" => :build
